@@ -10,7 +10,7 @@
 </center>
 
 <br>
-机器学习 / 深度学习 / 人工智能速报，长期不定时更新
+机器学习 / 深度学习 / 文物数字化
 
 ![License](https://img.shields.io/badge/license-MIT-5eba00.svg)
 ![Static Badge](https://img.shields.io/badge/CODE-Long%20Term%20Support-blue)
